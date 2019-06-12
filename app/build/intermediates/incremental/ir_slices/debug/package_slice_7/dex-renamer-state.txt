@@ -1,0 +1,4 @@
+#Wed Jun 12 23:03:09 IST 2019
+base.0=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

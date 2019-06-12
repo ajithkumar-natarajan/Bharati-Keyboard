@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033170765069",
+    "firebase_url": "https://bharatibuttonkeyboard.firebaseio.com",
+    "project_id": "bharatibuttonkeyboard",
+    "storage_bucket": "bharatibuttonkeyboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033170765069:android:6fa8a69d6739ab7e",
+        "android_client_info": {
+          "package_name": "com.bharatiscript.bharatibuttonkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033170765069-63qeqcq0cgnni1eek5v02ndvratvdkvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNPYjd7kTvspkiAUs98HvRFr9-HCytv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033170765069-63qeqcq0cgnni1eek5v02ndvratvdkvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

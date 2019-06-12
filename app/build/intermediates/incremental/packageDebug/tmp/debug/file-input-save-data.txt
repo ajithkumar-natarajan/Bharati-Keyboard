@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Wed Jun 12 23:46:51 IST 2019
+2.base=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=fonts/nav.ttf
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.path=fonts/bharati.ttf
+4.base=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+count=5
+2.path=fonts/sund.ttf
+4.set=DEX
+3.path=fonts/normal.ttf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=ASSET
