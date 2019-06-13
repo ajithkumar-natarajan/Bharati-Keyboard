@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\914d0224e30f7b0c506cfd778d2f4855\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:2:1-9:12
@@ -53,20 +53,20 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1766d96eb89c41d248a06f0aed2b4008\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c83eb51aac4d87e231f2f5f902e9da69\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\26b0a55a9e64d15b604c3286567bee2a\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
 	package
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:3:2-51
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-35:12
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:2:2-60
@@ -83,7 +83,7 @@ ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Android
 	android:name
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:6:19-75
 application
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:8:2-34:16
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:8:2-35:16
 MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:7:5-20
@@ -128,54 +128,56 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gra
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:10:3-35
+	android:roundIcon
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:12:9-54
 	android:largeHeap
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:12:3-27
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:13:3-27
 	android:icon
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:11:3-36
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:11:3-37
 	android:allowBackup
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:9:3-29
 	android:theme
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:13:3-34
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:14:3-34
 activity#com.bharatiscript.bharatibuttonkeyboard.MainActivity
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:14:3-23:14
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:15:3-24:14
 	android:screenOrientation
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:17:4-40
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:18:4-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:18:4-45
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:19:4-45
 	android:configChanges
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:16:4-50
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:17:4-50
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:15:4-32
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:16:4-32
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:19:4-22:20
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:20:4-23:20
 action#android.intent.action.MAIN
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:20:5-56
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:21:5-56
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:20:13-54
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:21:13-54
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:21:5-64
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:22:5-64
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:21:15-62
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:22:15-62
 activity#com.bharatiscript.bharatibuttonkeyboard.IntroActivity
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:24:3-28:47
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:25:3-29:47
 	android:screenOrientation
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:27:4-40
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:28:4-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:28:4-45
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:29:4-45
 	android:configChanges
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:26:4-50
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:27:4-50
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:25:4-33
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:26:4-33
 activity#com.bharatiscript.bharatibuttonkeyboard.HelpActivity
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:29:3-33:47
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:30:3-34:47
 	android:screenOrientation
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:32:4-40
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:33:4-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:33:4-45
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:34:4-45
 	android:configChanges
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:31:4-50
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:32:4-50
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:30:4-32
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:31:4-32
 uses-sdk
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
