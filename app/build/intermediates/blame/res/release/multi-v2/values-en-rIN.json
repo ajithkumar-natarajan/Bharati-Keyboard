@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\najit\\.gradle\\caches\\transforms-2\\files-2.1\\914d0224e30f7b0c506cfd778d2f4855\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\najit\\.gradle\\caches\\transforms-2\\files-2.1\\14a759f43a80c0b3b2b4487c79be1c58\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\najit\\.gradle\\caches\\transforms-2\\files-2.1\\1af74eaa23cd6365ab1d284935435178\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\najit\\.gradle\\caches\\transforms-2\\files-2.1\\ddfaf74cb313267723050055f244b7d6\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

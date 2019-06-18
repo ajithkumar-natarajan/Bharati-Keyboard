@@ -1,72 +1,55 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\914d0224e30f7b0c506cfd778d2f4855\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1525b91b90300b2fb809ec2a48f08499\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9bbeec8b32dc6cae4feb7b8ba356f405\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2c14f3922b60fd1e4d14933d5aef5a6\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a59ce4573f5314ee44f168ea83a56284\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:2:1-19:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\83b1e2c5eb947915899a8a7cebef0af7\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b043bc63761ad0eb34d64e204990fd94\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d148072c8539a1cb43f553677734f00d\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1d5b26323a8e1c4d3e41b7919fbc6ed8\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bc58d22029c8040cdcd7c15bf8cb2f13\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b9d2eb60268e2b02ae632d8802beb824\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\31f6bf965889aab22d67132c9885ead0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\be347b6fb14d3536faffab0846ab912d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\10e2f364595d87a7bbbd79a22f390d54\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fca4a56c0ece0caa4e4519bd418792c6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\990001a93df70d77f0a18640c17dfe66\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\66f8194554873ce7369ac0a7d6d4cb02\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2efc5dbda02c00d3641f7115c4812f6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2b56a1e10d8ea6b49519e26e140aaadf\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\641f0d915df7bc21b2f12969f58f5c48\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b92adbf8f41c2e591c00ba5d2abd8204\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b5856e822378b63b6aa85c20f7952716\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5cea5fc7920dfb3bc32aab4b0243b1a8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9ec8e3de385433a34e1f4b38dc1674f6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bd0d762f0c6d45951ac4f53dd58a2772\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\189fa42739da9b3d632677242f3147ec\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bcfc711162bed3dcfe36843f27c39782\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\8330b9db3cb7fcf2934a13cf4bb13960\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\597b0d98a13d1c0166fe75aa03f3af8a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f1023c72c3f121e084d7a0d712ac8ff0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c44deb84b3ecd2856f93552426a54597\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\52d1d0fd7e6a5dedab4bf4011fc8d993\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\8e7bdef4225e9738c48e6ede0f5fc018\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\e4aff9c7e9d6ba15c5ac7e530ea41fb3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\78b7d1cd5d1e9cb49baeab0a71df274f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1766d96eb89c41d248a06f0aed2b4008\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c83eb51aac4d87e231f2f5f902e9da69\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\26b0a55a9e64d15b604c3286567bee2a\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5bfbf96352ee878d4659ef2de5592d53\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\14a759f43a80c0b3b2b4487c79be1c58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\18fb0614d34ac328ea890e413a998b78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\260136a506c9c2241b9c4c0b07b6a179\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f828fc0ce50905bf06d2869aaa4c29ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\93cdf56f59087b47de7134d9e34a19e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b1629182048b182b461cea5c451ba7d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5034eeb511b1806f3931f473c40f4999\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\49206a95ade876856bfc309c6a9fdcc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f2d1e6a0ef99d0856cfe7c8c660c4191\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b6c0562b8722b6b90921706b303cd36d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\843d4c40bb545420596120c92331d7f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5e7e81d500ac121d61cebad0e0412bab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\53a48a0d5c3c82fb71a64a7d61e8bcce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\594f8c100cf27c18e7654ab11a65f604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a53fa9f2ef7148fbf44e7cfa14f644ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1cd77f50a55486a6c323e5e47e13a9be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\245a999a600109604781f4b968e570b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d25d084bd4ef58273f04936cb6f7bc51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\ddfaf74cb313267723050055f244b7d6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c03dc9f7ac2a856239799ffee92f3252\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b7263081f1b81c5253fbfa1d0c4a1369\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\10bc6aabae76c56e7381e0d9062922b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a1709b3548594c60f2c15014dde6a327\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2beaa34f5a31486d75d9154abc58b69a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bfa1e96f6a90dd457f19e45996d1cf31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b3799e2450e3b2ffa966e4dc696ddc9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9059102fc89f11c6036f70b428e41935\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f4d1314d426f943667476c1144071df5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\16b883a04410fadfcba2239dfb43a7ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d1ea9fba44a93708fdb83320c1e72a15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\05d214d47ff0e93eb7adc59dadfa84c2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
 	package
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:3:2-51
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:3:2-52
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-36:12
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:1:1-38:12
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:2:2-60
@@ -83,49 +66,15 @@ ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Android
 	android:name
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:6:19-75
 application
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:8:2-35:16
-MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1525b91b90300b2fb809ec2a48f08499\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1525b91b90300b2fb809ec2a48f08499\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9bbeec8b32dc6cae4feb7b8ba356f405\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9bbeec8b32dc6cae4feb7b8ba356f405\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2c14f3922b60fd1e4d14933d5aef5a6\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2c14f3922b60fd1e4d14933d5aef5a6\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a59ce4573f5314ee44f168ea83a56284\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a59ce4573f5314ee44f168ea83a56284\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\83b1e2c5eb947915899a8a7cebef0af7\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\83b1e2c5eb947915899a8a7cebef0af7\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b043bc63761ad0eb34d64e204990fd94\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b043bc63761ad0eb34d64e204990fd94\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d148072c8539a1cb43f553677734f00d\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d148072c8539a1cb43f553677734f00d\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1d5b26323a8e1c4d3e41b7919fbc6ed8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1d5b26323a8e1c4d3e41b7919fbc6ed8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bcfc711162bed3dcfe36843f27c39782\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bcfc711162bed3dcfe36843f27c39782\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:8:2-37:16
+MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5bfbf96352ee878d4659ef2de5592d53\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5bfbf96352ee878d4659ef2de5592d53\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\ddfaf74cb313267723050055f244b7d6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\ddfaf74cb313267723050055f244b7d6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c03dc9f7ac2a856239799ffee92f3252\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c03dc9f7ac2a856239799ffee92f3252\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\ddfaf74cb313267723050055f244b7d6\AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:10:3-35
 	android:roundIcon
@@ -138,7 +87,7 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gra
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:9:3-29
 	android:theme
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:14:3-34
-activity#com.bharatiscript.bharatibuttonkeyboard.MainActivity
+activity#com.bharatiscript.bharativirtualkeyboard.MainActivity
 ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:15:3-24:14
 	android:screenOrientation
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:18:4-40
@@ -147,7 +96,7 @@ ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Android
 	android:configChanges
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:17:4-50
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:16:4-32
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:16:4-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:20:4-23:20
 action#android.intent.action.MAIN
@@ -158,7 +107,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:22:5-64
 	android:name
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:22:15-62
-activity#com.bharatiscript.bharatibuttonkeyboard.IntroActivity
+activity#com.bharatiscript.bharativirtualkeyboard.IntroActivity
 ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:25:3-29:47
 	android:screenOrientation
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:28:4-40
@@ -167,8 +116,8 @@ ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Android
 	android:configChanges
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:27:4-50
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:26:4-33
-activity#com.bharatiscript.bharatibuttonkeyboard.HelpActivity
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:26:4-73
+activity#com.bharatiscript.bharativirtualkeyboard.HelpActivity
 ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:30:3-34:47
 	android:screenOrientation
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:33:4-40
@@ -177,109 +126,75 @@ ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Android
 	android:configChanges
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:32:4-50
 	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:31:4-32
+		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:31:4-72
 uses-sdk
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2177cc0d504131acb52b68b7564257a8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\914d0224e30f7b0c506cfd778d2f4855\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\914d0224e30f7b0c506cfd778d2f4855\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5c6a6bb30873df0856ef10bcd9cb4edd\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1525b91b90300b2fb809ec2a48f08499\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1525b91b90300b2fb809ec2a48f08499\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9bbeec8b32dc6cae4feb7b8ba356f405\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9bbeec8b32dc6cae4feb7b8ba356f405\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2c14f3922b60fd1e4d14933d5aef5a6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2c14f3922b60fd1e4d14933d5aef5a6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a59ce4573f5314ee44f168ea83a56284\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a59ce4573f5314ee44f168ea83a56284\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\83b1e2c5eb947915899a8a7cebef0af7\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\83b1e2c5eb947915899a8a7cebef0af7\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b043bc63761ad0eb34d64e204990fd94\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b043bc63761ad0eb34d64e204990fd94\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d148072c8539a1cb43f553677734f00d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d148072c8539a1cb43f553677734f00d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1d5b26323a8e1c4d3e41b7919fbc6ed8\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1d5b26323a8e1c4d3e41b7919fbc6ed8\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bc58d22029c8040cdcd7c15bf8cb2f13\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bc58d22029c8040cdcd7c15bf8cb2f13\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b9d2eb60268e2b02ae632d8802beb824\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b9d2eb60268e2b02ae632d8802beb824\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\31f6bf965889aab22d67132c9885ead0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\31f6bf965889aab22d67132c9885ead0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\be347b6fb14d3536faffab0846ab912d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\be347b6fb14d3536faffab0846ab912d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\10e2f364595d87a7bbbd79a22f390d54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\10e2f364595d87a7bbbd79a22f390d54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fca4a56c0ece0caa4e4519bd418792c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fca4a56c0ece0caa4e4519bd418792c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\990001a93df70d77f0a18640c17dfe66\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\990001a93df70d77f0a18640c17dfe66\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\66f8194554873ce7369ac0a7d6d4cb02\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\66f8194554873ce7369ac0a7d6d4cb02\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2efc5dbda02c00d3641f7115c4812f6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d2efc5dbda02c00d3641f7115c4812f6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2b56a1e10d8ea6b49519e26e140aaadf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2b56a1e10d8ea6b49519e26e140aaadf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\641f0d915df7bc21b2f12969f58f5c48\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\641f0d915df7bc21b2f12969f58f5c48\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b92adbf8f41c2e591c00ba5d2abd8204\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b92adbf8f41c2e591c00ba5d2abd8204\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b5856e822378b63b6aa85c20f7952716\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b5856e822378b63b6aa85c20f7952716\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5cea5fc7920dfb3bc32aab4b0243b1a8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5cea5fc7920dfb3bc32aab4b0243b1a8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9ec8e3de385433a34e1f4b38dc1674f6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9ec8e3de385433a34e1f4b38dc1674f6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bd0d762f0c6d45951ac4f53dd58a2772\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bd0d762f0c6d45951ac4f53dd58a2772\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\189fa42739da9b3d632677242f3147ec\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\189fa42739da9b3d632677242f3147ec\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1af74eaa23cd6365ab1d284935435178\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bcfc711162bed3dcfe36843f27c39782\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bcfc711162bed3dcfe36843f27c39782\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\8330b9db3cb7fcf2934a13cf4bb13960\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\8330b9db3cb7fcf2934a13cf4bb13960\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\597b0d98a13d1c0166fe75aa03f3af8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\597b0d98a13d1c0166fe75aa03f3af8a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f1023c72c3f121e084d7a0d712ac8ff0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f1023c72c3f121e084d7a0d712ac8ff0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c44deb84b3ecd2856f93552426a54597\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c44deb84b3ecd2856f93552426a54597\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\52d1d0fd7e6a5dedab4bf4011fc8d993\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\52d1d0fd7e6a5dedab4bf4011fc8d993\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\8e7bdef4225e9738c48e6ede0f5fc018\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\8e7bdef4225e9738c48e6ede0f5fc018\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\e4aff9c7e9d6ba15c5ac7e530ea41fb3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\e4aff9c7e9d6ba15c5ac7e530ea41fb3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\78b7d1cd5d1e9cb49baeab0a71df274f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\78b7d1cd5d1e9cb49baeab0a71df274f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1766d96eb89c41d248a06f0aed2b4008\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1766d96eb89c41d248a06f0aed2b4008\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c83eb51aac4d87e231f2f5f902e9da69\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c83eb51aac4d87e231f2f5f902e9da69\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\26b0a55a9e64d15b604c3286567bee2a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\26b0a55a9e64d15b604c3286567bee2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5bfbf96352ee878d4659ef2de5592d53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5bfbf96352ee878d4659ef2de5592d53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\14a759f43a80c0b3b2b4487c79be1c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\14a759f43a80c0b3b2b4487c79be1c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\18fb0614d34ac328ea890e413a998b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\18fb0614d34ac328ea890e413a998b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\260136a506c9c2241b9c4c0b07b6a179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\260136a506c9c2241b9c4c0b07b6a179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f828fc0ce50905bf06d2869aaa4c29ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f828fc0ce50905bf06d2869aaa4c29ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\93cdf56f59087b47de7134d9e34a19e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\93cdf56f59087b47de7134d9e34a19e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b1629182048b182b461cea5c451ba7d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b1629182048b182b461cea5c451ba7d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5034eeb511b1806f3931f473c40f4999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5034eeb511b1806f3931f473c40f4999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\49206a95ade876856bfc309c6a9fdcc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\49206a95ade876856bfc309c6a9fdcc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f2d1e6a0ef99d0856cfe7c8c660c4191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f2d1e6a0ef99d0856cfe7c8c660c4191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b6c0562b8722b6b90921706b303cd36d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b6c0562b8722b6b90921706b303cd36d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\843d4c40bb545420596120c92331d7f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\843d4c40bb545420596120c92331d7f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5e7e81d500ac121d61cebad0e0412bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5e7e81d500ac121d61cebad0e0412bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\53a48a0d5c3c82fb71a64a7d61e8bcce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\53a48a0d5c3c82fb71a64a7d61e8bcce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\594f8c100cf27c18e7654ab11a65f604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\594f8c100cf27c18e7654ab11a65f604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a53fa9f2ef7148fbf44e7cfa14f644ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a53fa9f2ef7148fbf44e7cfa14f644ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1cd77f50a55486a6c323e5e47e13a9be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1cd77f50a55486a6c323e5e47e13a9be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\245a999a600109604781f4b968e570b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\245a999a600109604781f4b968e570b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d25d084bd4ef58273f04936cb6f7bc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d25d084bd4ef58273f04936cb6f7bc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\ddfaf74cb313267723050055f244b7d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\ddfaf74cb313267723050055f244b7d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c03dc9f7ac2a856239799ffee92f3252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\c03dc9f7ac2a856239799ffee92f3252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b7263081f1b81c5253fbfa1d0c4a1369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b7263081f1b81c5253fbfa1d0c4a1369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\10bc6aabae76c56e7381e0d9062922b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\10bc6aabae76c56e7381e0d9062922b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a1709b3548594c60f2c15014dde6a327\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\a1709b3548594c60f2c15014dde6a327\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2beaa34f5a31486d75d9154abc58b69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\2beaa34f5a31486d75d9154abc58b69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bfa1e96f6a90dd457f19e45996d1cf31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\bfa1e96f6a90dd457f19e45996d1cf31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b3799e2450e3b2ffa966e4dc696ddc9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b3799e2450e3b2ffa966e4dc696ddc9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9059102fc89f11c6036f70b428e41935\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\9059102fc89f11c6036f70b428e41935\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f4d1314d426f943667476c1144071df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\f4d1314d426f943667476c1144071df5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\16b883a04410fadfcba2239dfb43a7ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\16b883a04410fadfcba2239dfb43a7ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d1ea9fba44a93708fdb83320c1e72a15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\d1ea9fba44a93708fdb83320c1e72a15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\05d214d47ff0e93eb7adc59dadfa84c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\05d214d47ff0e93eb7adc59dadfa84c2\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -290,169 +205,3 @@ INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Andr
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:23:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:23:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:24:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:24:5-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:25:22-65
-uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:26:5-110
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:26:22-107
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:29:9-33:20
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:31:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:32:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:30:13-85
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\3bab0ab2efc0b0ca057e996a92f2bd2c\AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\fa9929a7ea0ebf21472353dee15dc9b0\AndroidManifest.xml:29:9-37:20
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:36:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:37:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:38:13-69
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:35:13-100
-intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:39:13-41:29
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:40:17-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:40:25-76
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:44:9-47:40
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:46:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:47:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:45:13-84
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:48:9-52:72
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:50:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:51:13-37
-	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:52:13-69
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\69aec2368b834539813c7ed7ee50bca0\AndroidManifest.xml:49:13-87
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:29:9-35:19
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:29:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:28:13-84
-meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:30:13-32:85
-	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:32:17-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\1c3beb2c94c089394f256a885b89fd30\AndroidManifest.xml:31:17-139
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:26:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:26:22-79
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:32:13-34:85
-	android:value
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:34:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:37:9-44:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:39:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:40:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:38:13-78
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:41:13-43:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:42:17-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:42:25-78
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:50:9-56:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:52:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:51:13-77
-intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:53:13-55:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:53:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:54:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\29442ef064367a832d24da1dc4971f53\AndroidManifest.xml:54:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:12:9-16:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:14:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:15:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:16:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\283517299e6e5a5d62ef8c68cadc4e61\AndroidManifest.xml:13:13-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\b96279f5f8941d12708e6acbbf5c2355\AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\najit\.gradle\caches\transforms-2\files-2.1\5ac2630eedd24fc79e9368f766bf05cd\AndroidManifest.xml:24:13-58
