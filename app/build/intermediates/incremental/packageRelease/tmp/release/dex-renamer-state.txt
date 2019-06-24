@@ -1,4 +1,4 @@
-#Tue Jun 18 00:38:39 IST 2019
+#Wed Jun 19 17:08:56 IST 2019
 base.0=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
 path.0=classes.dex
 renamed.0=classes.dex

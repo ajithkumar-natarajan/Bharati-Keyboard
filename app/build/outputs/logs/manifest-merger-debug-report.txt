@@ -127,12 +127,6 @@ ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\Android
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:32:4-50
 	android:name
 		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:31:4-72
-meta-data#google_analytics_adid_collection_enabled
-ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:36:3-94
-	android:value
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:36:70-91
-	android:name
-		ADDED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml:36:14-69
 uses-sdk
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\najit\Documents\GitHub\Bharati-Keyboard\app\src\main\AndroidManifest.xml

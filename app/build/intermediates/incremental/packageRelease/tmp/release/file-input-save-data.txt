@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 18 00:38:39 IST 2019
+#Wed Jun 19 17:08:57 IST 2019
 2.base=C\:\\Users\\najit\\Documents\\GitHub\\Bharati-Keyboard\\app\\build\\intermediates\\merged_assets\\release\\out
 0.path=classes.dex
 2.baseType=DIRECTORY
